@@ -1,0 +1,58 @@
+.App {
+     text-align: center;
+}
+
+.board {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #398BD4;
+     border: 5px solid #FFCA08;
+}
+
+.row {
+    display: inline-block;
+    padding: 10px;
+}
+
+.dice {
+    height: 35px;
+    width: 35px;
+    margin: 3px;
+    padding: 15px;
+    border-radius: 4px;
+    text-align: center;
+    background-color: white;
+}
+
+.selected {
+    color: white;
+    background-color: #ACCEEC;
+}
+
+.submission {
+    width: 400px;
+    margin: 20px auto;
+}
+
+
+.list {
+    margin: 0 auto;
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+}
+
+td {
+     border: 5px solid #FFCA08;
+}
+
+th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.score {
+    background-color: #ACCEEC;
+}
